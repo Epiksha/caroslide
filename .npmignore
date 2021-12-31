@@ -1,0 +1,16 @@
+# Directories
+src
+demo
+tests
+
+# files
+*.log
+*.code-workspace
+
+# toolchain
+webpack.config.js
+tsconfig.json
+.eslintrc.js
+
+.vscode
+.git
